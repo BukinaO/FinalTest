@@ -1,0 +1,15 @@
+/home/hola/Final Test_Block1/FinalTask/bin/Debug/net6.0/FinalTask
+/home/hola/Final Test_Block1/FinalTask/bin/Debug/net6.0/FinalTask.deps.json
+/home/hola/Final Test_Block1/FinalTask/bin/Debug/net6.0/FinalTask.runtimeconfig.json
+/home/hola/Final Test_Block1/FinalTask/bin/Debug/net6.0/FinalTask.dll
+/home/hola/Final Test_Block1/FinalTask/bin/Debug/net6.0/FinalTask.pdb
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.csproj.AssemblyReference.cache
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfoInputs.cache
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfo.cs
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.csproj.CoreCompileInputs.cache
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.dll
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/refint/FinalTask.dll
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/FinalTask.genruntimeconfig.cache
+/home/hola/Final Test_Block1/FinalTask/obj/Debug/net6.0/ref/FinalTask.dll
